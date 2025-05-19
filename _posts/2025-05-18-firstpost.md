@@ -5,7 +5,7 @@ date: 2025-05-18 14:24:00
 description: First post to test
 tags: first post
 categories: sample-posts
-giscus: true
+giscus_comments: true
 ---
 
 # First post
